@@ -1,0 +1,29 @@
+{
+  "name": "tony0918",
+  "version": "1.0.0",
+  "description": "Personal Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony0918/tony0918.git"
+  },
+  "author": "Tony Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tony0918/tony0918/issues"
+  },
+  "homepage": "http://maohuiliu.cn",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.2"
+  },
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-animate": "^1.4.8",
+    "angular-aria": "^1.4.8",
+    "angular-material": "^1.0.1"
+  }
+}
